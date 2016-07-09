@@ -1,0 +1,26 @@
+{
+  "name": "SlidingPuzzleSolver",
+  "authors": [
+    "Anders Weijnitz <anders.weijnitz@gmail.com>"
+  ],
+  "description": "A* search based solver for sliding puzzles",
+  "main": "solve.js",
+  "moduleType": [],
+  "keywords": [
+    "A*",
+    "puzzle",
+    "path",
+    "finding",
+    "sliding",
+    "puzzle"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

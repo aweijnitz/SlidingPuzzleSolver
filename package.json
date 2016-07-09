@@ -1,0 +1,15 @@
+{
+  "name": "sliding-puzzle-solver",
+  "version": "0.0.1",
+  "description": "A puzzle solver based on A* search",
+  "main": "solve.js",
+  "scripts": {
+    "test": "./node_modules/.bin/tape ./test/*.js | ./node_modules/.bin/faucet"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "tape": "^4.6.0"
+  }
+}
