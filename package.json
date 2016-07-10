@@ -11,5 +11,8 @@
   "devDependencies": {
     "faucet": "0.0.1",
     "tape": "^4.6.0"
+  },
+  "dependencies": {
+    "compute-manhattan-distance": "^1.0.1"
   }
 }
